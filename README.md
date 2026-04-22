@@ -72,19 +72,14 @@ Me chamo Arthur Peixoto Lacerda, tenho 20 anos e sou estudante de Sistemas de In
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=imarthur-lacerda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=imarthur-lacerda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&v=1"
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarthur-lacerda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarthur-lacerda&theme=tokyonight&layout=compact&langs_count=9&v=1"
+/>
 
 </p>
 
